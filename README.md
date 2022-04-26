@@ -6,3 +6,4 @@ such as &gt and many more
 
 this scripts encodes char like < >just run it and encode all the special 
 chars and enjoy exploiting XSS
+source if you want manual or make any changes :-= https://stevemorse.org/hebrew/utf8.php?charset=86
